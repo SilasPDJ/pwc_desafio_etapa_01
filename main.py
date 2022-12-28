@@ -1,11 +1,7 @@
 from enderecos import Endereco
 
 
-def main():
-    print(f'init commit.')
-
-
-if __name__ == '__main__':
+def main() -> None:
     caso1_a = Endereco("Miritiba 334")
     caso1_b = Endereco("Babaçu 500")
     caso1_c = Endereco("Cambui 804B")
@@ -22,3 +18,9 @@ if __name__ == '__main__':
     caso3_b = Endereco("100 Brodway Av")
     caso3_c = Endereco("Calle Sagasta, 26")
     caso3_d = Endereco("Calle 44 No 1991")
+
+
+if __name__ == '__main__':
+    print(f'\n{"PwC - Etapa 01":~^30}\n')
+
+    main()
