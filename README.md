@@ -11,3 +11,4 @@
 ### Linguagem de programação escolhida: PYTHON
 
 #### Arquivo executável: main.py
+![Terminal Code Running](https://user-images.githubusercontent.com/33920489/209751574-d7b157fc-a0f1-4040-b211-91486fa36dc0.png)
